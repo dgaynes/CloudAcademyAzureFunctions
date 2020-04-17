@@ -1,0 +1,2 @@
+# CloudAcademyAzureFunctions
+CloudAcademyAzureFunctions Demo Code
